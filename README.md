@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kelly-ls,
+👋 Hi, I’m @kelly-ls,
 
 -I just started learning programming.
 I hope I can learn something fun in it.
