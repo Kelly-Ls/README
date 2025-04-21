@@ -1,5 +1,5 @@
 👋 Hi, I’m @kelly
-
+![](https://komarev.com/ghpvc/?Kelly-Ls 
 - I just started learning programming.
 I hope I can learn something fun in it.
 - 👀 I’m interested in programming, drawing, etc.
