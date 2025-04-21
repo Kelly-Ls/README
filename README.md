@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?Kelly-Ls=your-github-Kelly-Ls)
+![](https://komarev.com/ghpvc/?username=your-github-Kelly-Ls)
 👋 Hi, I’m @kelly
 - 🤓 I just started learning programming.
 I hope I can learn something fun in it.
