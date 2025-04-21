@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=your-github-Kelly-Ls)
--👋 Hi, I’m @kelly
+👋 Hi, I’m @kelly
 - 🤓 I just started learning programming.
 I hope I can learn something fun in it.
 - 👀 I’m interested in programming, drawing, etc.
