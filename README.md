@@ -1,4 +1,5 @@
 ## Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kelly-Ls&left_color=green&right_color=red)
 - 🤓 I just started learning programming.
 I hope I can learn something fun in it.
 - 👀 I’m interested in programming, drawing, etc.
@@ -8,4 +9,4 @@ I hope I can learn something fun in it.
 - 🤝And nice to meet you all.
 
 
--->
+
