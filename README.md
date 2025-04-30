@@ -11,7 +11,6 @@ I hope I can learn something fun in it.
   
 
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelly-Ls)](https://github.com/anuraghazra/github-readme-stats)
+ ### [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelly-Ls)](https://github.com/anuraghazra/github-readme-stats)
   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-Ls)
+###![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-Ls)
