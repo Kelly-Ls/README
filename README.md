@@ -6,6 +6,6 @@ I hope I can learn something fun in it.
 - ⚡ Fun fact: I want to make a website for myself or just do something interesting...
 - 😀 Let's learning together.
 - 🤝And nice to meet you all.
--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelly-Ls)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelly-Ls)
 
 
