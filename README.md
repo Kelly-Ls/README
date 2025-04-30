@@ -1,4 +1,4 @@
-## Hi👋I'm Kelly 
+## Hi👋, I'm Kelly 
 ![](https://komarev.com/ghpvc/?username=Kelly-Ls)
 
 - 🤓 I just started learning programming.
