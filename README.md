@@ -1,4 +1,6 @@
 ## Hi there 👋
+![](https://komarev.com/ghpvc/?username=Kelly-Ls)
+
 - 🤓 I just started learning programming.
 I hope I can learn something fun in it.
 - 👀 I’m interested in programming, drawing, etc.
@@ -8,6 +10,8 @@ I hope I can learn something fun in it.
 - 🤝And nice to meet you all.
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelly-Ls)](https://github.com/anuraghazra/github-readme-stats)
+<h1>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kelly-Ls)](https://github.com/anuraghazra/github-readme-stats)
+  <h1/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelly-Ls)
